@@ -1,0 +1,1 @@
+This repository contains some Data Science projects I've completed. They are archives of notebooks created in Anaconda, enclosed within are PDF files for viewing, all code is enclosed within these. Thank you for your time.
